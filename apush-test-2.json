@@ -1,0 +1,704 @@
+{
+ "questions": [
+  {
+   "question": "THE BURNING OF JAMESTOWN, 1676 “Whereas complaint has been made to this Board by Capt. William Pierce, Esq., that six of his servants and a negro of Mr. Reginald’s has plotted to run away unto the Dutch plantation from their said masters,…the court taking the same into consideration as a dangerous precedent for the future time (if left unpunished), did order that Christopher Miller, a Dutchman (a prime agent in the business), should receive the punishment of whipping,…the said Peter Milcocke to receive thirty stripes and to be Burnt in the cheek with the letter R,… the said Richard Cockson, after his full time Expired with his master, to serve the colony for two years and a half, and the said Richard Hill to remain upon his good behavior until the next offense, and the said Andrew Noxe to receive thirty stripes, and the said John Williams, a Dutchman and a [surgeon] after his full time of service is Expired with his master, to serve the colony for seven years, and Emanuel, the Negro, to receive thirty stripes and to be burnt in the cheek with the letter R and to work in shackles one year or more as his master shall see cause.” Decisions of the General Court, 1640\n\nThe excerpt best supports which one of the following conclusions?",
+   "choices": [
+    "Trade alliances with American Indians promoted the economic health of early Chesapeake settlements.",
+    "The Chesapeake colonies relied on labor-intensive agriculture, a system that utilized both white and African indentured servants.",
+    "English colonists sought to control the native populations through missions and religious conversions.",
+    "A shortage of indentured servants led to the emergence of the African slave trade."
+   ],
+   "answer": 1,
+   "explanation": "The excerpt mentions only one of the servants as Negro (Emanuel), so we can logically infer that both whites and blacks served in this capacity. Choices (A), (B), and (C) are all unsupported by the excerpt.",
+   "source": "AP U.S. History · Practice Test 2, Q1",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "THE BURNING OF JAMESTOWN, 1676 “Whereas complaint has been made to this Board by Capt. William Pierce, Esq., that six of his servants and a negro of Mr. Reginald’s has plotted to run away unto the Dutch plantation from their said masters,…the court taking the same into consideration as a dangerous precedent for the future time (if left unpunished), did order that Christopher Miller, a Dutchman (a prime agent in the business), should receive the punishment of whipping,…the said Peter Milcocke to receive thirty stripes and to be Burnt in the cheek with the letter R,… the said Richard Cockson, after his full time Expired with his master, to serve the colony for two years and a half, and the said Richard Hill to remain upon his good behavior until the next offense, and the said Andrew Noxe to receive thirty stripes, and the said John Williams, a Dutchman and a [surgeon] after his full time of service is Expired with his master, to serve the colony for seven years, and Emanuel, the Negro, to receive thirty stripes and to be burnt in the cheek with the letter R and to work in shackles one year or more as his master shall see cause.” Decisions of the General Court, 1640\n\nWhy were confrontations such as those in the excerpt rare in the New England colonies?",
+   "choices": [
+    "New England populations were largely homogenous with economies based on subsistence farming, rather than cash crops.",
+    "Puritan law forbade the sale or ownership of slaves.",
+    "Negotiations after King Philip’s War had ensured the return of indentured servants back to Europe.",
+    "Indentured servants in New England were largely treated fairly, serving for short terms before gaining freedom."
+   ],
+   "answer": 0,
+   "explanation": "The lives of English settlers in New England and the Chesapeake differed considerably. Entire families tended to emigrate to New England; in the Chesapeake, immigrants were often single males. The climate in New England was more hospitable, and so New Englanders tended to live longer and have larger families than Chesapeake residents. A stronger sense of community, and the absence of tobacco as a cash crop, led New Englanders to settle in larger towns that were closer to one another; those in the Chesapeake lived in smaller, more spread-out farming communities.",
+   "source": "AP U.S. History · Practice Test 2, Q2",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The Seven Years’ War is also popularly labeled the “French and Indian War.” Why?",
+   "choices": [
+    "Many French settlers, particularly in the Maritime provinces of Canada, intermarried with native peoples, and thus were allied against the British in subsequent territorial conflicts.",
+    "The French fought various Indian tribes throughout the Northeast for control of trapping rights and major waterways.",
+    "Most Indian tribes sided with the British, defending their lands against French invaders from the North.",
+    "The French were aided throughout the war by various Indian tribes fighting in alliance with them."
+   ],
+   "answer": 3,
+   "explanation": "In fact, the Seven Years’ War lasted for 10 years. It is also called the French and Indian War, which is almost equally confusing because the French and Indians fought on the same side, not against each other (for the most part). The Seven Years’ War was the British name for the war. The colonists called it the “French and Indian War” because that’s who they were fighting. It was actually one of several “wars for empire.”",
+   "source": "AP U.S. History · Practice Test 2, Q5",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following best describes the causal link between the Seven Years’ War and the Revolutionary War?",
+   "choices": [
+    "Britain’s massive debt after the Seven Years’ War resulted in a push for greater control over the Thirteen Colonies, sparking debate among colonists over the pursuit of independence.",
+    "Disillusioned by their experiences in the Seven Years’ War, colonial militia members formed the Sons of Liberty, a radical group calling for independence from the crown.",
+    "Emboldened by their victories during the Seven Years’ War, colonial elites challenged the crown, pushing for independence before the working-class populace was ready to accept it.",
+    "Britain’s defeat after the Seven Years’ War led to massive debt for the crown, prompting an effort to collect taxes from the Thirteen Colonies."
+   ],
+   "answer": 0,
+   "explanation": "Great Britain’s massive debt from the Seven Years’ War resulted in renewed efforts to consolidate imperial control over North American markets, taxes, and political institutions—actions that were supported by some colonists but resisted by others. Be careful—Britain was not defeated in this war, so rule out (A). Choice (B) is incorrect because many working-class people favored revolution. Choice (D) is unsupportable.",
+   "source": "AP U.S. History · Practice Test 2, Q6",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“…Let me now take a more comprehensive view, and warn you in the most solemn manner against the baneful effects of the spirit of party generally. “There is an opinion that parties in free countries are useful checks upon the administration of government, and serve to keep alive the spirit of liberty. This within certain limits is probably true; and in governments of a monarchical cast patriotism may look with indulgence, if not with favor, upon the spirit of party. But in those of the popular character, in governments purely elective, it is a spirit not to be encouraged. From their natural tendency it is certain there will always be enough of that spirit for every salutary purpose; and there being constant danger of excess, the effort ought to be by force of public opinion to mitigate and assuage it. A fire not to be quenched, it demands a uniform vigilance to prevent its bursting into a flame, lest, instead of warming, it should consume.” President George Washington, Farewell Address, 1796\n\nThe sentiments expressed by Washington in his Farewell Address most warn against partisan divisions that occurred before which of the following conflicts?",
+   "choices": [
+    "The Civil War",
+    "The Nullification Crisis of 1832",
+    "The War of 1812",
+    "The Korean War"
+   ],
+   "answer": 2,
+   "explanation": "In the excerpt, Washington warns against the “baneful effects” of political parties. During the War of 1812, the War Hawks, largely Anti-Federalists, saw war as an opportunity to grab new territories to the west and southwest. Their leaders were Henry Clay and John C. Calhoun. Federalists, on the other hand, opposed to the war because it disrupted trade and unaware that its end was coming, met in Hartford, Connecticut, to consider a massive overhaul of the Constitution or, failing that, secession. When the war ended soon after, most people considered the Federalists to be traitors, and their national party dissolved soon after the Hartford Convention. If you chose (B), you were close, but the Civil War involved more than just partisan divisions; it was fueled by geographical, economic, and ideological differences too. Choices (C), the Nullification Crisis of 1832, and (D), the Korean War, were not primarily partisan conflicts.",
+   "source": "AP U.S. History · Practice Test 2, Q7",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“…Let me now take a more comprehensive view, and warn you in the most solemn manner against the baneful effects of the spirit of party generally. “There is an opinion that parties in free countries are useful checks upon the administration of government, and serve to keep alive the spirit of liberty. This within certain limits is probably true; and in governments of a monarchical cast patriotism may look with indulgence, if not with favor, upon the spirit of party. But in those of the popular character, in governments purely elective, it is a spirit not to be encouraged. From their natural tendency it is certain there will always be enough of that spirit for every salutary purpose; and there being constant danger of excess, the effort ought to be by force of public opinion to mitigate and assuage it. A fire not to be quenched, it demands a uniform vigilance to prevent its bursting into a flame, lest, instead of warming, it should consume.” President George Washington, Farewell Address, 1796\n\nWashington’s Farewell Address best exemplifies which of the following political philosophies?",
+   "choices": [
+    "Anti-Federalism",
+    "Federalism",
+    "Sectionalism",
+    "Republicanism"
+   ],
+   "answer": 3,
+   "explanation": "Washington was not explicitly a Federalist, so rule out (A), and he was certainly not an Anti-Federalist, so rule out (B). He preaches against sectionalism, so rule out (D). Washington’s political views most embody Republicanism— which stresses liberty and “unalienable” rights as central values, makes the people as a whole sovereign, rejects aristocracy, expects citizens to be independent in their performance of civic duties, and vilifies corruption.",
+   "source": "AP U.S. History · Practice Test 2, Q8",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“…Let me now take a more comprehensive view, and warn you in the most solemn manner against the baneful effects of the spirit of party generally. “There is an opinion that parties in free countries are useful checks upon the administration of government, and serve to keep alive the spirit of liberty. This within certain limits is probably true; and in governments of a monarchical cast patriotism may look with indulgence, if not with favor, upon the spirit of party. But in those of the popular character, in governments purely elective, it is a spirit not to be encouraged. From their natural tendency it is certain there will always be enough of that spirit for every salutary purpose; and there being constant danger of excess, the effort ought to be by force of public opinion to mitigate and assuage it. A fire not to be quenched, it demands a uniform vigilance to prevent its bursting into a flame, lest, instead of warming, it should consume.” President George Washington, Farewell Address, 1796\n\nElsewhere in the Address, Washington promotes which of the following approaches to foreign policy?",
+   "choices": [
+    "Neutrality",
+    "Isolationism",
+    "Dollar Diplomacy",
+    "Imperialism"
+   ],
+   "answer": 0,
+   "explanation": "A key message in the address is the necessity of neutrality regarding foreign affairs. Choice (C), isolationism, is close but too extreme. Choice (A) is the best answer.",
+   "source": "AP U.S. History · Practice Test 2, Q9",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“Some men look at constitutions with sanctimonious reverence, and deem them like the ark of the covenant, too sacred to be touched. They ascribe to the men of the preceding age a wisdom more than human, and suppose what they did to be beyond amendment….But I know also, that laws and institutions must go hand in hand with the progress of the human mind. As that becomes more developed, more enlightened, as new discoveries are made, new truths disclosed, and manners and opinions change with the change of circumstances, institutions must advance also, and keep pace with the times.” Thomas Jefferson, 1816\n\nWhich of following Amendments to the Constitution is most directly an example of the sentiments expressed above?",
+   "choices": [
+    "The Twenty-first Amendment, which repealed the prohibition of alcohol",
+    "The First Amendment, which guaranteed the right to free speech",
+    "The Nineteenth Amendment, which guaranteed all women the right to vote",
+    "The Tenth Amendment, which allows powers not granted to the federal government be granted to the states"
+   ],
+   "answer": 0,
+   "explanation": "Although all of the Constitutional Amendments represent changes to the original document, the Twenty-first Amendment best exemplifies the sentiment in Jefferson’s quote. After only 15 years of banning alcohol, the Eighteenth Amendment (Prohibition) was repealed by the Twenty-first.",
+   "source": "AP U.S. History · Practice Test 2, Q10",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“Some men look at constitutions with sanctimonious reverence, and deem them like the ark of the covenant, too sacred to be touched. They ascribe to the men of the preceding age a wisdom more than human, and suppose what they did to be beyond amendment….But I know also, that laws and institutions must go hand in hand with the progress of the human mind. As that becomes more developed, more enlightened, as new discoveries are made, new truths disclosed, and manners and opinions change with the change of circumstances, institutions must advance also, and keep pace with the times.” Thomas Jefferson, 1816\n\nWhich of the following best describes a contributing factor in the crafting of the United States Constitution?",
+   "choices": [
+    "The weaknesses of the Articles of Confederation led James Madison to question their efficacy and prompted a formation of the Constitutional Congress in 1787.",
+    "Individual state constitutions written at the time of the Revolution tended to cede too much power to the federal government, leading to a call for reform on the part of Anti- Federalists.",
+    "Washington’s embarrassing failure at the Whiskey Rebellion led to Federalist demands for a new framework for federal power.",
+    "Difficulties over trade and foreign relations led to a repeal of overly restrictive tariffs required by the Articles of Confederation."
+   ],
+   "answer": 0,
+   "explanation": "James Madison led the charge to form a Constitutional Congress and draft the Constitution. It was primarily the weaknesses of the Articles of Confederation that led to their rejection. They did not impose tariffs, so rule out (C). Choice (A) is incorrect because the federal government was weak in 1787. Choice (D) is wrong because Washington responded to the Whiskey Rebellion with much force. (If you picked (D), you are confusing Shays’s Rebellion with the Whiskey Rebellion.)",
+   "source": "AP U.S. History · Practice Test 2, Q11",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“Some men look at constitutions with sanctimonious reverence, and deem them like the ark of the covenant, too sacred to be touched. They ascribe to the men of the preceding age a wisdom more than human, and suppose what they did to be beyond amendment….But I know also, that laws and institutions must go hand in hand with the progress of the human mind. As that becomes more developed, more enlightened, as new discoveries are made, new truths disclosed, and manners and opinions change with the change of circumstances, institutions must advance also, and keep pace with the times.” Thomas Jefferson, 1816\n\nWhich of the following statements is most accurate regarding the existence of political parties in the early United States?",
+   "choices": [
+    "Political parties did not exist until the War of 1812, when Federalists asserted control over foreign policies with France and Britain.",
+    "Although Washington warned against the influence of political parties, he reluctantly accepted the endorsement of the Federalist party.",
+    "Two major political parties dominated early presidential elections until John Quincy Adams founded the Whig party in 1824.",
+    "After the drafting of the Constitution, continued debates about states’ rights and competing economic interests led to the formation of political parties, such as the Federalists and the Democratic-Republicans."
+   ],
+   "answer": 1,
+   "explanation": "In Washington’s Farewell address, he denounces political parties. So Washington was the one president who was not officially affiliated with any party, although he was endorsed by the Federalists. Choice (A) is a tempting answer, but political parties existed before the drafting of the Constitution. That also rules out (C). Choice (D) is incorrect because the Whig Party formed in reaction to Jackson’s policies, well after John Quincy Adams left office.",
+   "source": "AP U.S. History · Practice Test 2, Q12",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“Is there no danger to our liberty and independence in a bank that in its nature has so little to bind it to our country? The president of the bank has told us that most of the State banks exist by its forbearance. Should its influence become concentrated, as it may under the operation of such an act as this, in the hands of a self-elected directory whose interests are identified with those of the foreign stockholders, will there not be cause to tremble for the purity of our elections in peace and for the independence of our country in war? Their power would be great whenever they might choose to exert it; but if this monopoly were regularly renewed every fifteen or twenty years on terms proposed by themselves, they might seldom in peace put forth their strength to influence elections or control the affairs of the nation. But if any private citizen or public functionary should interpose to curtail its powers or prevent a renewal of its privileges, it cannot be doubted that he would be made to feel its influence.” President Andrew Jackson, Veto of the Bank of the United States, 1832\n\nIn the excerpt above, which quote best explains why Jackson chose to veto the recharter of the Second Bank?",
+   "choices": [
+    "“interests are identified with those of foreign stockholders”",
+    "“this monopoly”",
+    "“but if any private citizen”",
+    "“the president of the bank”"
+   ],
+   "answer": 0,
+   "explanation": "Jackson was not opposed to a bank run by private citizens per se, as in (A), but he was wary of allowing foreign shareholders to control American economic interests.",
+   "source": "AP U.S. History · Practice Test 2, Q13",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“Is there no danger to our liberty and independence in a bank that in its nature has so little to bind it to our country? The president of the bank has told us that most of the State banks exist by its forbearance. Should its influence become concentrated, as it may under the operation of such an act as this, in the hands of a self-elected directory whose interests are identified with those of the foreign stockholders, will there not be cause to tremble for the purity of our elections in peace and for the independence of our country in war? Their power would be great whenever they might choose to exert it; but if this monopoly were regularly renewed every fifteen or twenty years on terms proposed by themselves, they might seldom in peace put forth their strength to influence elections or control the affairs of the nation. But if any private citizen or public functionary should interpose to curtail its powers or prevent a renewal of its privileges, it cannot be doubted that he would be made to feel its influence.” President Andrew Jackson, Veto of the Bank of the United States, 1832\n\nWhich of the following events most directly caused the formation of the Second Bank of the United States?",
+   "choices": [
+    "Unregulated currency and federal debts after the War of 1812",
+    "Efforts by Alexander Hamilton to stabilize the national economy",
+    "The failure of the Specie Circular",
+    "Federalist counter-reaction to the extreme budget-cutting under Jefferson"
+   ],
+   "answer": 0,
+   "explanation": "In the aftermath of the War of 1812, the federal government suffered from the disarray of an unregulated currency and a lack of fiscal order; business interests sought security for their government bonds. A national alliance arose to create a central bank to address these needs. Choice (C) is tempting, but it refers to the First Bank, not the Second.",
+   "source": "AP U.S. History · Practice Test 2, Q14",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“Is there no danger to our liberty and independence in a bank that in its nature has so little to bind it to our country? The president of the bank has told us that most of the State banks exist by its forbearance. Should its influence become concentrated, as it may under the operation of such an act as this, in the hands of a self-elected directory whose interests are identified with those of the foreign stockholders, will there not be cause to tremble for the purity of our elections in peace and for the independence of our country in war? Their power would be great whenever they might choose to exert it; but if this monopoly were regularly renewed every fifteen or twenty years on terms proposed by themselves, they might seldom in peace put forth their strength to influence elections or control the affairs of the nation. But if any private citizen or public functionary should interpose to curtail its powers or prevent a renewal of its privileges, it cannot be doubted that he would be made to feel its influence.” President Andrew Jackson, Veto of the Bank of the United States, 1832\n\nThe debate over the First Bank of the United States was significant because it raised the issue of",
+   "choices": [
+    "how strictly the Constitution should be interpreted",
+    "whether the president had the power to act unilaterally on important economic issues",
+    "whether the new government should issue paper currency",
+    "whether the United States should pay back its war debt to France"
+   ],
+   "answer": 0,
+   "explanation": "As the United States’ first secretary of the treasury, Alexander Hamilton had to handle the nation’s considerable war debt. His solution included the formation of a national bank, modeled on the Bank of England. Through the bank, Hamilton hoped to consolidate and manage the nation’s debt and provide an agency through which a national currency could be circulated. He also wished to broaden the powers of the federal government (Hamilton, a Federalist, favored a strong central government). Both houses of Congress approved Hamilton’s plan, but Washington (then president) was reluctant to sign the bill because he was uncertain of its constitutionality. (Note: Washington performed very conservatively as president, aware that any action he took would set a precedent for his followers. Accordingly, he used his veto only when he was certain that a bill was unconstitutional.) The debate that followed defined the two main schools of thought on constitutional law. On one side were the strict constructionists, led by Jefferson and Madison. Both were wary of a strong central government and interpreted the Constitution accordingly. The strict constructionists argued that the Constitution allowed Congress only those powers specifically granted it or those “necessary and proper” to the execution of its enumerated powers. While a bank might be convenient and perhaps beneficial, they argued, it was not necessary, and thus its creation was beyond the powers of the national government. Hamilton, not surprisingly, disagreed. In his “Defense of the Constitutionality of the Bank,” he proposed what has come to be known as the broad-constructionist view. He argued that the creation of a bank was an implied power of the government, because it already had explicit power to coin money, borrow money, and collect taxes. Hamilton argued that the government could do anything in the execution of those enumerated powers—including creating a bank—that was not explicitly forbidden by the Constitution. Washington agreed with Hamilton and signed the bill.",
+   "source": "AP U.S. History · Practice Test 2, Q15",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“Is there no danger to our liberty and independence in a bank that in its nature has so little to bind it to our country? The president of the bank has told us that most of the State banks exist by its forbearance. Should its influence become concentrated, as it may under the operation of such an act as this, in the hands of a self-elected directory whose interests are identified with those of the foreign stockholders, will there not be cause to tremble for the purity of our elections in peace and for the independence of our country in war? Their power would be great whenever they might choose to exert it; but if this monopoly were regularly renewed every fifteen or twenty years on terms proposed by themselves, they might seldom in peace put forth their strength to influence elections or control the affairs of the nation. But if any private citizen or public functionary should interpose to curtail its powers or prevent a renewal of its privileges, it cannot be doubted that he would be made to feel its influence.” President Andrew Jackson, Veto of the Bank of the United States, 1832\n\nThe election of 1824 marked a turning point in presidential politics because, for the first time,",
+   "choices": [
+    "a presidential and vice-presidential candidate ran together on one ticket",
+    "the system of choosing nominees by congressional caucus failed",
+    "all the candidates campaigned widely throughout the states",
+    "the presidency was won by someone who was not a member of the Federalist Party"
+   ],
+   "answer": 1,
+   "explanation": "Between 1800 and 1820, party nominees to the presidency were chosen by congressional caucus and then approved by state electors (delegates to a state nominating convention). Before 1824, electors were chosen by a variety of methods. Many electors were chosen by state legislatures, which chose electors who agreed with the choices of the caucus (often they were the same men who had participated in the caucus). By 1824, however, a majority of states allowed voters to choose their presidential electors directly. When the Republican caucus chose William H. Crawford in 1824, others, among them John Quincy Adams, Henry Clay, and Andrew Jackson, decided to challenge the nomination. Their opposition, along with their accusations that the caucuses were undemocratic, brought about the demise of the caucus system.",
+   "source": "AP U.S. History · Practice Test 2, Q16",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“Is there no danger to our liberty and independence in a bank that in its nature has so little to bind it to our country? The president of the bank has told us that most of the State banks exist by its forbearance. Should its influence become concentrated, as it may under the operation of such an act as this, in the hands of a self-elected directory whose interests are identified with those of the foreign stockholders, will there not be cause to tremble for the purity of our elections in peace and for the independence of our country in war? Their power would be great whenever they might choose to exert it; but if this monopoly were regularly renewed every fifteen or twenty years on terms proposed by themselves, they might seldom in peace put forth their strength to influence elections or control the affairs of the nation. But if any private citizen or public functionary should interpose to curtail its powers or prevent a renewal of its privileges, it cannot be doubted that he would be made to feel its influence.” President Andrew Jackson, Veto of the Bank of the United States, 1832\n\nJohn Taylor of Caroline was a Virginia senator who served in office from 1792 to 1824. He distrusted large banking institutions and generally defended the institution of slavery. He was once quoted as saying that “…if Congress could incorporate a bank, it might emancipate a slave.” Taylor is best categorized as",
+   "choices": [
+    "a Jacksonian Democrat",
+    "a Republican",
+    "a Whig",
+    "a Jeffersonian Democrat"
+   ],
+   "answer": 3,
+   "explanation": "Jeffersonian Democrats believed in a republican government and equality of political opportunity, with a priority for the “yeoman farmer,” “planters,” and the “plain folk.” They were antagonistic to the aristocratic elitism of merchants and bankers and generally favored, or tolerated, slavery. Choice (B) is incorrect because there were some Free-Soil Jacksonians.",
+   "source": "AP U.S. History · Practice Test 2, Q17",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Supreme Court decisions concerning American Indian tribes in 1831 and 1832",
+   "choices": [
+    "reinforced the rights of states to remove Indians from disputed lands",
+    "voided previous treaties between Indian tribes and the United States on the grounds that the treaties were unfair",
+    "ruled that the federal government had a unilateral right to relocate Indians to lands west of the Mississippi",
+    "denied them the right to sue in federal court but affirmed their rights to land that was traditionally theirs"
+   ],
+   "answer": 3,
+   "explanation": "In the 1831 case Cherokee Nation v. Georgia , Chief Justice John Marshall ruled that American Indian tribes were neither foreign nations nor states, and as such had no standing in federal court. In short, he ruled they had no right to sue. He argued further, however, that the tribes had a right to their lands and could not be forced to give them up by anyone, including the federal government. The 1832 case Worcester v. Georgia reaffirmed that position.",
+   "source": "AP U.S. History · Practice Test 2, Q18",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is true of the Dawes Severalty Act of 1887?",
+   "choices": [
+    "It compensated Indians for the land they had lost at the Battle of Wounded Knee.",
+    "In honoring communal landholdings, it reflected an appreciation of Indian culture.",
+    "It was an attempt to assimilate the Indians into American society through individual land grants.",
+    "It outlawed individual land ownership by Indian leaders."
+   ],
+   "answer": 2,
+   "explanation": "In the 1860s, the government initiated its “reservation policy,” by which Native Americans were granted (usually less desirable) portions of the lands they inhabited. The policy failed on many fronts, and by the 1880s, the government was searching for a different tack. Congress struck on the Dawes Severalty Act, which offered individual Native Americans 160-acre plots in return for leaving their reservations; through this program, Congress hoped to hasten the assimilation of Native Americans, whose cultures most congressmen held in contempt. The results were not good. Most American Indians preferred to remain among their tribes and did not accept the offer. Those who did accept usually ended up selling their land to whites, who often placed considerable pressure on them to do so.",
+   "source": "AP U.S. History · Practice Test 2, Q21",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“On the 4th day of March next, this party will take possession of the Government. It has announced that…a war must be waged against slavery until it shall cease throughout the United States. The guaranties of the Constitution will then no longer exist; the equal rights of the States will be lost. The slave-holding States will no longer have the power of self-government, or self- protection, and the Federal Government will have become their enemy. Sectional interest and animosity will deepen the irritation, and all hope of remedy is rendered vain, by the fact that public opinion at the North has invested a great political error with the sanction of more erroneous religious belief. We, therefore, the People of South Carolina…have solemnly declared that the Union heretofore existing between this State and the other States of North America, is dissolved, and that the State of South Carolina has resumed her position among the nations of the world, as a separate and independent State.” “Declaration of the Immediate Causes Which Induce and Justify the Secession of South Carolina from the Federal Union,” 1860\n\nWhich of the following was an immediate consequence of the secession of South Carolina?",
+   "choices": [
+    "Other Southern states seceded from the Union, forming the Confederacy.",
+    "Jefferson Davis drafted Confederate soldiers into war, defending the siege on Fort Sumter.",
+    "Southern Democrats appealed to the powers of Congress to stop military action against South Carolina.",
+    "Abraham Lincoln signed the Emancipation Proclamation."
+   ],
+   "answer": 0,
+   "explanation": "This is a question of chronology. There was no Confederacy until South Carolina seceded first, so rule out (D). By the time the Civil War started, Southern Democrats appealed more to Jefferson Davis than to Washington, D.C., so rule out (A). Lincoln did not sign the Emancipation Proclamation until much later in the War, so rule out (B).",
+   "source": "AP U.S. History · Practice Test 2, Q22",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“On the 4th day of March next, this party will take possession of the Government. It has announced that…a war must be waged against slavery until it shall cease throughout the United States. The guaranties of the Constitution will then no longer exist; the equal rights of the States will be lost. The slave-holding States will no longer have the power of self-government, or self- protection, and the Federal Government will have become their enemy. Sectional interest and animosity will deepen the irritation, and all hope of remedy is rendered vain, by the fact that public opinion at the North has invested a great political error with the sanction of more erroneous religious belief. We, therefore, the People of South Carolina…have solemnly declared that the Union heretofore existing between this State and the other States of North America, is dissolved, and that the State of South Carolina has resumed her position among the nations of the world, as a separate and independent State.” “Declaration of the Immediate Causes Which Induce and Justify the Secession of South Carolina from the Federal Union,” 1860\n\nThe sentiments above are most consistent with which of the following ideologies?",
+   "choices": [
+    "Nullification",
+    "States’ Rights",
+    "Neutrality",
+    "Civil disobedience"
+   ],
+   "answer": 1,
+   "explanation": "In the excerpt, South Carolina is protesting the violation of “the equal rights of the states.” Choice (B), nullification, is a good trap answer because South Carolina did attempt to nullify the Whiskey Tariff under President Jackson. Choice (D), civil disobedience, cannot be right because that sort of protest is nonviolent in nature.",
+   "source": "AP U.S. History · Practice Test 2, Q23",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“On the 4th day of March next, this party will take possession of the Government. It has announced that…a war must be waged against slavery until it shall cease throughout the United States. The guaranties of the Constitution will then no longer exist; the equal rights of the States will be lost. The slave-holding States will no longer have the power of self-government, or self- protection, and the Federal Government will have become their enemy. Sectional interest and animosity will deepen the irritation, and all hope of remedy is rendered vain, by the fact that public opinion at the North has invested a great political error with the sanction of more erroneous religious belief. We, therefore, the People of South Carolina…have solemnly declared that the Union heretofore existing between this State and the other States of North America, is dissolved, and that the State of South Carolina has resumed her position among the nations of the world, as a separate and independent State.” “Declaration of the Immediate Causes Which Induce and Justify the Secession of South Carolina from the Federal Union,” 1860\n\nIn the excerpt above, the reference to “the sanctions of a more erroneous religious belief” most probably refers to",
+   "choices": [
+    "the Puritan abolition of slavery in New England states",
+    "Jewish acceptance of slavery in the Torah",
+    "Southern Baptist justification of slavery on the grounds of white racial superiority",
+    "Christian abolitionist rejection of slavery on moral grounds"
+   ],
+   "answer": 3,
+   "explanation": "The Quakers believed slavery to be morally wrong and argued for its end. More generally, the religious and moral fervor that accompanied the Second Great Awakening persuaded many Northern whites that slavery was a great evil. Southern Baptists, (A), were not committed abolitionists. Puritans disapproved of slavery, as in (B), but they did not successfully ban it from the Massachusetts Bay colony. Choice (C), Jews, is irrelevant to this question.",
+   "source": "AP U.S. History · Practice Test 2, Q24",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“On the 4th day of March next, this party will take possession of the Government. It has announced that…a war must be waged against slavery until it shall cease throughout the United States. The guaranties of the Constitution will then no longer exist; the equal rights of the States will be lost. The slave-holding States will no longer have the power of self-government, or self- protection, and the Federal Government will have become their enemy. Sectional interest and animosity will deepen the irritation, and all hope of remedy is rendered vain, by the fact that public opinion at the North has invested a great political error with the sanction of more erroneous religious belief. We, therefore, the People of South Carolina…have solemnly declared that the Union heretofore existing between this State and the other States of North America, is dissolved, and that the State of South Carolina has resumed her position among the nations of the world, as a separate and independent State.” “Declaration of the Immediate Causes Which Induce and Justify the Secession of South Carolina from the Federal Union,” 1860\n\nWhich of the following best explains why South Carolina chose to secede from the Union in 1860?",
+   "choices": [
+    "The failures of the Compromise of 1850 hindered South Carolina’s trade relationships with Western states, leading to severe economic recession.",
+    "President Lincoln signed the Emancipation Proclamation, thus undermining slavery in the South.",
+    "Lincoln’s election on a Free-Soil platform led Southern politicians to conclude that secession was necessary.",
+    "The Battle of Fort Sumter occurred in Charleston, prompting public outrage over Union aggression."
+   ],
+   "answer": 2,
+   "explanation": "Again, an issue of chronology. Choices (B) and (C) occurred after South Carolina’s secession. Trade issues, as in (A), were not a primary reason for South Carolina’s exit.",
+   "source": "AP U.S. History · Practice Test 2, Q25",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“The Opposition tells us that we ought not to govern a people without their consent. I answer, the rule of liberty that all just government derives its authority from the consent of the governed, applies only to those who are capable of self- government. We govern the Indians without their consent, we govern our territories without their consent, we govern our children without their consent. How do they know that our government would be without their consent? Would not the people of the Philippines prefer the just, human, civilizing government of this Republic to the savage, bloody rule of pillage and extortion from which we have rescued them? And, regardless of this formula of words made only for enlightened, self-governing people, do we owe no duty to the world? Shall we turn these peoples back to the reeking hands from which we have taken them? Shall we abandon them, with Germany, England, Japan, hungering for them? Shall we save them from those nations, to give them a self-rule of tragedy?…Then, like men and not like children, let us on to our tasks, our mission, and our destiny.” Albert J. Beveridge, “The March of the Flag,” 1898\n\nThe sentiment expressed by Beveridge best exemplifies which of the following?",
+   "choices": [
+    "Manifest Destiny",
+    "Anti-imperialism",
+    "Imperialism",
+    "Isolationism"
+   ],
+   "answer": 2,
+   "explanation": "In the excerpt, Beveridge is arguing that America is justified in ruling over less developed nations with or without their consent, but that those nations would surely appreciate the “just, human, civilizing” influence of the West. These sentiments are the hallmark of Imperialism. Choice (D), Manifest Destiny, pertains more to domestic expansion, rather than international affairs.",
+   "source": "AP U.S. History · Practice Test 2, Q26",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“The Opposition tells us that we ought not to govern a people without their consent. I answer, the rule of liberty that all just government derives its authority from the consent of the governed, applies only to those who are capable of self- government. We govern the Indians without their consent, we govern our territories without their consent, we govern our children without their consent. How do they know that our government would be without their consent? Would not the people of the Philippines prefer the just, human, civilizing government of this Republic to the savage, bloody rule of pillage and extortion from which we have rescued them? And, regardless of this formula of words made only for enlightened, self-governing people, do we owe no duty to the world? Shall we turn these peoples back to the reeking hands from which we have taken them? Shall we abandon them, with Germany, England, Japan, hungering for them? Shall we save them from those nations, to give them a self-rule of tragedy?…Then, like men and not like children, let us on to our tasks, our mission, and our destiny.” Albert J. Beveridge, “The March of the Flag,” 1898\n\nThe United States became politically engaged with the Philippines after what military conflict?",
+   "choices": [
+    "World War II",
+    "Spanish-American War",
+    "Mexican-American War",
+    "The Boxer Rebellion"
+   ],
+   "answer": 1,
+   "explanation": "During the Spanish-American War, the United States not only drove Spain out of Cuba, but also sent a fleet to the Spanish-controlled Philippines and drove the Spanish out of there too. In the Treaty of Paris, Spain granted Cuba independence and ceded the Philippines, Puerto Rico, and Guam to the United States.",
+   "source": "AP U.S. History · Practice Test 2, Q27",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“The Opposition tells us that we ought not to govern a people without their consent. I answer, the rule of liberty that all just government derives its authority from the consent of the governed, applies only to those who are capable of self- government. We govern the Indians without their consent, we govern our territories without their consent, we govern our children without their consent. How do they know that our government would be without their consent? Would not the people of the Philippines prefer the just, human, civilizing government of this Republic to the savage, bloody rule of pillage and extortion from which we have rescued them? And, regardless of this formula of words made only for enlightened, self-governing people, do we owe no duty to the world? Shall we turn these peoples back to the reeking hands from which we have taken them? Shall we abandon them, with Germany, England, Japan, hungering for them? Shall we save them from those nations, to give them a self-rule of tragedy?…Then, like men and not like children, let us on to our tasks, our mission, and our destiny.” Albert J. Beveridge, “The March of the Flag,” 1898\n\nWhich of the following rationales does Beveridge employ in his argument?",
+   "choices": [
+    "The closing of the western frontier impels the United States to expand its territory overseas.",
+    "Governing territories confers economic benefits to both European and nonwhite nations.",
+    "Powerful nations have a moral duty to govern less developed nations.",
+    "Racial superiority confers responsibility to the United States and Europe over the affairs of developing nations."
+   ],
+   "answer": 2,
+   "explanation": "Beveridge uses largely moral arguments, stating that less developed nations must be “rescued” from “the savage, bloody rule of pillage and extortion.” There is no mention of economic benefits, or racial superiority, so rule out (B) and (D), respectively. Choice (A) is describing Manifest Destiny, not Progressive Imperialism.",
+   "source": "AP U.S. History · Practice Test 2, Q28",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“Whereas the laws and treaties of the United States, without interfering with the free expression of opinion and sympathy, or with the commercial manufacture or sale of arms or munitions of war, nevertheless impose upon all persons who may be within their territory and jurisdiction the duty of an impartial neutrality during the existence of the contest; And Whereas it is the duty of a neutral government not to permit or suffer the making of its waters subservient to the purposes of war; “Now, Therefore, I, Woodrow Wilson, President of the United States of America, in order to preserve the neutrality of the United States…do hereby declare and proclaim…. “That the statutes and the treaties of the United States and the law of nations alike require that no person, within the territory and jurisdiction of the United States, shall take part, directly or indirectly, in the said wars, but shall remain at peace with all of the said belligerents, and shall maintain a strict and impartial neutrality….” Woodrow Wilson, 1914\n\nThe statement above was most likely prompted by which of the following world events?",
+   "choices": [
+    "Cuban revolt against Spanish control",
+    "Austria-Hungary’s declaration of war against Serbia",
+    "Adolph Hitler’s invasion of Poland",
+    "Mussolini’s invasion of Ethiopia"
+   ],
+   "answer": 1,
+   "explanation": "Since 1914 was the beginning of World War I, only (C) is relevant. All the other answers represent conflicts in a different era.",
+   "source": "AP U.S. History · Practice Test 2, Q29",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“Whereas the laws and treaties of the United States, without interfering with the free expression of opinion and sympathy, or with the commercial manufacture or sale of arms or munitions of war, nevertheless impose upon all persons who may be within their territory and jurisdiction the duty of an impartial neutrality during the existence of the contest; And Whereas it is the duty of a neutral government not to permit or suffer the making of its waters subservient to the purposes of war; “Now, Therefore, I, Woodrow Wilson, President of the United States of America, in order to preserve the neutrality of the United States…do hereby declare and proclaim…. “That the statutes and the treaties of the United States and the law of nations alike require that no person, within the territory and jurisdiction of the United States, shall take part, directly or indirectly, in the said wars, but shall remain at peace with all of the said belligerents, and shall maintain a strict and impartial neutrality….” Woodrow Wilson, 1914\n\nThe statement above is most in harmony with the sentiments in which of the following speeches?",
+   "choices": [
+    "George H. W. Bush’s “A Thousand Points of Light”",
+    "Lincoln’s Gettysburg Address",
+    "Franklin D. Roosevelt’s “Day of Infamy”",
+    "Washington’s Farewell Address"
+   ],
+   "answer": 3,
+   "explanation": "Washington’s Farewell Address advocated neutrality in foreign affairs. Choice (D), Roosevelt’s speech, is a declaration of war against Japan. Choice (B) is largely unrelated to war. The Gettysburg Address (C) was a speech given during the Civil War, so is unrelated to issues of neutrality.",
+   "source": "AP U.S. History · Practice Test 2, Q30",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“Whereas the laws and treaties of the United States, without interfering with the free expression of opinion and sympathy, or with the commercial manufacture or sale of arms or munitions of war, nevertheless impose upon all persons who may be within their territory and jurisdiction the duty of an impartial neutrality during the existence of the contest; And Whereas it is the duty of a neutral government not to permit or suffer the making of its waters subservient to the purposes of war; “Now, Therefore, I, Woodrow Wilson, President of the United States of America, in order to preserve the neutrality of the United States…do hereby declare and proclaim…. “That the statutes and the treaties of the United States and the law of nations alike require that no person, within the territory and jurisdiction of the United States, shall take part, directly or indirectly, in the said wars, but shall remain at peace with all of the said belligerents, and shall maintain a strict and impartial neutrality….” Woodrow Wilson, 1914\n\nAll of the following increased federal government power during World War I EXCEPT the",
+   "choices": [
+    "Food Administration",
+    "Dawes Plan",
+    "Espionage Act",
+    "War Industries Board"
+   ],
+   "answer": 1,
+   "explanation": "The Dawes Plan (1924) attempted to facilitate German reparation payments. By loaning $200 million in gold bullion to Germany, the United States hoped to stabilize the German economy and enable Germany to pay off its debts.",
+   "source": "AP U.S. History · Practice Test 2, Q31",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“Whereas the laws and treaties of the United States, without interfering with the free expression of opinion and sympathy, or with the commercial manufacture or sale of arms or munitions of war, nevertheless impose upon all persons who may be within their territory and jurisdiction the duty of an impartial neutrality during the existence of the contest; And Whereas it is the duty of a neutral government not to permit or suffer the making of its waters subservient to the purposes of war; “Now, Therefore, I, Woodrow Wilson, President of the United States of America, in order to preserve the neutrality of the United States…do hereby declare and proclaim…. “That the statutes and the treaties of the United States and the law of nations alike require that no person, within the territory and jurisdiction of the United States, shall take part, directly or indirectly, in the said wars, but shall remain at peace with all of the said belligerents, and shall maintain a strict and impartial neutrality….” Woodrow Wilson, 1914\n\nWhich of the following statements about the Treaty of Versailles is true?",
+   "choices": [
+    "It was never voted on by the United States Senate.",
+    "The United States Senate rejected it because it required increased American involvement in European affairs.",
+    "The United States Senate approved it, with reservations concerning the division of Eastern Europe.",
+    "The United States Senate rejected it because it treated Germany too leniently."
+   ],
+   "answer": 1,
+   "explanation": "Many Americans supported the U.S. war effort only grudgingly, and then only after German (and, to a lesser extent, British) interference with American shipping had provoked the United States to take action. Many argued that America should stick to the foreign policy suggested in both George Washington’s farewell address and the Monroe Doctrine, and therefore (1) avoid political alliances with other countries and (2) remain neutral regarding European conflicts. Wilson negotiated the Treaty of Versailles (the peace treaty following World War I) for the United States. He was unable to get a treaty that reflected his conciliatory Fourteen Points, as the Allies demanded a treaty that punished Germany harshly. Nonetheless, Wilson did the best he could and returned with a document he was ready to present to the Senate. The treaty included provisions for the League of Nations (which Wilson had fought hard for) and contained a clause that could have been interpreted as committing the American military to the defense of European borders. Wilson, a Democrat, tried to sell this treaty to the Republican Senate, but he could not muster the two-thirds majority required for ratification, and so the treaty was never approved by the United States.",
+   "source": "AP U.S. History · Practice Test 2, Q32",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“Whereas the laws and treaties of the United States, without interfering with the free expression of opinion and sympathy, or with the commercial manufacture or sale of arms or munitions of war, nevertheless impose upon all persons who may be within their territory and jurisdiction the duty of an impartial neutrality during the existence of the contest; And Whereas it is the duty of a neutral government not to permit or suffer the making of its waters subservient to the purposes of war; “Now, Therefore, I, Woodrow Wilson, President of the United States of America, in order to preserve the neutrality of the United States…do hereby declare and proclaim…. “That the statutes and the treaties of the United States and the law of nations alike require that no person, within the territory and jurisdiction of the United States, shall take part, directly or indirectly, in the said wars, but shall remain at peace with all of the said belligerents, and shall maintain a strict and impartial neutrality….” Woodrow Wilson, 1914\n\nWhich of the following statements is most accurate?",
+   "choices": [
+    "After World War I, debates intensified over American involvement overseas.",
+    "After World War I, Americans generally favored the new era of American involvement overseas.",
+    "American involvement in World War I was an extension of a long tradition of involvement overseas.",
+    "American involvement in World War I was a direct result of “dollar diplomacy.”"
+   ],
+   "answer": 0,
+   "explanation": "The global ramifications of World War I and wartime patriotism and xenophobia, combined with social tensions created by increased international migration, resulted in a general sentiment of isolationism in America.",
+   "source": "AP U.S. History · Practice Test 2, Q33",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“Since the foundations of the American commonwealth were laid in colonial times over 300 years ago, vigorous complaint and more or less bitter persecution have been aimed at newcomers to our shores. Also the congressional reports of about 1840 are full of abuse of English, Scotch, Welsh immigrants as paupers, criminals, and so forth. Old citizens in Detroit of Irish and German descent have told me of the fierce tirades and propaganda directed against the great waves of Irish and Germans who came over from 1840 on for a few decades to escape civil, racial, and religious persecution in their native lands. The “Know-Nothings,” lineal ancestors of the Ku- Klux Klan, bitterly denounced the Irish and Germans as mongrels, scum, foreigners, and a menace to our institutions, much as other great branches of the Caucasian race of glorious history and antecedents are berated to-day….But to-day it is the Italians, Spanish, Poles, Jews, Greeks, Russians, Balkanians, and so forth, who are the racial lepers….In this bill we find racial discrimination at its worst—a deliberate attempt to go back 84 years in our census taken every 10 years so that a blow may be aimed at peoples of eastern and southern Europe, particularly at our recent allies in the Great War—Poland and Italy.” Robert H. Clancy, Congressional Record , 68th Congress, 1st Session, 1924\n\nThe excerpt above is most likely a response to",
+   "choices": [
+    "the Red Scare",
+    "World War I patriotism",
+    "labor strikes",
+    "immigration quotas"
+   ],
+   "answer": 3,
+   "explanation": "Clancy is denouncing immigration quotas as “racial discrimination at its worst.” Choice (A) is far too positive for the tone of this excerpt. Choice (C), labor strikes, are not mentioned. Choice (D), the Red Scare, is a tempting choice, but the excerpt does not mention Communism specifically. Many of the ethnic groups mentioned are wholly unconnected to Communism.",
+   "source": "AP U.S. History · Practice Test 2, Q34",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“Since the foundations of the American commonwealth were laid in colonial times over 300 years ago, vigorous complaint and more or less bitter persecution have been aimed at newcomers to our shores. Also the congressional reports of about 1840 are full of abuse of English, Scotch, Welsh immigrants as paupers, criminals, and so forth. Old citizens in Detroit of Irish and German descent have told me of the fierce tirades and propaganda directed against the great waves of Irish and Germans who came over from 1840 on for a few decades to escape civil, racial, and religious persecution in their native lands. The “Know-Nothings,” lineal ancestors of the Ku- Klux Klan, bitterly denounced the Irish and Germans as mongrels, scum, foreigners, and a menace to our institutions, much as other great branches of the Caucasian race of glorious history and antecedents are berated to-day….But to-day it is the Italians, Spanish, Poles, Jews, Greeks, Russians, Balkanians, and so forth, who are the racial lepers….In this bill we find racial discrimination at its worst—a deliberate attempt to go back 84 years in our census taken every 10 years so that a blow may be aimed at peoples of eastern and southern Europe, particularly at our recent allies in the Great War—Poland and Italy.” Robert H. Clancy, Congressional Record , 68th Congress, 1st Session, 1924\n\nWhat best accounts for the sharp increase of immigrants during the period 1880–1910?",
+   "choices": [
+    "The United States welcomed immigrants by providing housing and employment.",
+    "Many Southern and Eastern Europeans turned to America for financial gain and political freedom.",
+    "Germans were seeking ways to avoid military conscription.",
+    "Irish farmers were forced to leave their homes due to agricultural disasters."
+   ],
+   "answer": 1,
+   "explanation": "The largest wave of immigration to this country occurred during this period and was a result of political and economic upheaval. This so-called “new immigration” brought immigrants from Southern and Eastern Europe as well as Asia. Between 1880 and 1910, approximately 12 million people came to the United States, many to escape poverty or political persecution.",
+   "source": "AP U.S. History · Practice Test 2, Q35",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“Since the foundations of the American commonwealth were laid in colonial times over 300 years ago, vigorous complaint and more or less bitter persecution have been aimed at newcomers to our shores. Also the congressional reports of about 1840 are full of abuse of English, Scotch, Welsh immigrants as paupers, criminals, and so forth. Old citizens in Detroit of Irish and German descent have told me of the fierce tirades and propaganda directed against the great waves of Irish and Germans who came over from 1840 on for a few decades to escape civil, racial, and religious persecution in their native lands. The “Know-Nothings,” lineal ancestors of the Ku- Klux Klan, bitterly denounced the Irish and Germans as mongrels, scum, foreigners, and a menace to our institutions, much as other great branches of the Caucasian race of glorious history and antecedents are berated to-day….But to-day it is the Italians, Spanish, Poles, Jews, Greeks, Russians, Balkanians, and so forth, who are the racial lepers….In this bill we find racial discrimination at its worst—a deliberate attempt to go back 84 years in our census taken every 10 years so that a blow may be aimed at peoples of eastern and southern Europe, particularly at our recent allies in the Great War—Poland and Italy.” Robert H. Clancy, Congressional Record , 68th Congress, 1st Session, 1924\n\nWhich one of the following legislative acts is most closely an example of nativism?",
+   "choices": [
+    "The Alien and Sedition Acts of 1798",
+    "The Wagner Act of 1935",
+    "The Immigration and Nationality Act of 1965",
+    "The Espionage Act of 1917"
+   ],
+   "answer": 0,
+   "explanation": "The Alien and Sedition Acts were four bills that were passed by the Federalists and signed into law by President John Adams in 1798 in the aftermath of the French Revolution and during an undeclared naval war with France. The Naturalization Act increased the residency requirement for American citizenship from 5 to 14 years, and it allowed the president to imprison or deport aliens who were considered “dangerous to the peace and safety of the United States.” This act was repealed in 1802 by the Naturalization Law of 1802. Choice (D) is a good trap answer, but the Immigration and Nationality Act actually encouraged immigration, rather than discouraged it.",
+   "source": "AP U.S. History · Practice Test 2, Q36",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following was NOT a major contributing factor to the onset of the Great Depression?",
+   "choices": [
+    "Technological advances had allowed farmers and manufacturers to overproduce, creating large inventories.",
+    "The federal government interfered too frequently with the economy, causing investors to lose confidence.",
+    "Major businesses were controlled by so few producers that the failure of any one had a considerable effect on the national economy.",
+    "Stock investors had been allowed to speculate wildly, creating an unstable and volatile stock market."
+   ],
+   "answer": 1,
+   "explanation": "In fact, the federal government did almost nothing to regulate the economy even though many within the government foresaw the potential for economic disaster. Many possible remedies—an income tax to redistribute wealth, a tighter money supply to discourage speculation, aggressive enforcement of antitrust regulations—were rejected. Meanwhile, manufacturers were overproducing, causing them to stockpile large inventories and lay off workers; consumers weren’t making enough money to buy what, in some cases, they built at work; and the wealth of the nation was concentrated in a very few, often irresponsible, hands. The system was too fragile, and when it started to tumble, it fell entirely to pieces very quickly.",
+   "source": "AP U.S. History · Practice Test 2, Q38",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The Agricultural Adjustment Act of 1933 sought to lessen the effects of the Depression by",
+   "choices": [
+    "purchasing farms and turning them into government collectives",
+    "paying farmers to cut production and, in some cases, destroy crops",
+    "encouraging farmers to increase production",
+    "instituting an early retirement program for farmers over the age of 50"
+   ],
+   "answer": 1,
+   "explanation": "As he began his first term, Roosevelt was faced with an agricultural market in which the bottom had dropped out; farmers had so overproduced that their crops were worth virtually nothing. Roosevelt’s solution, the AAA, provided payments to farmers in return for their agreement to cut production by up to one-half. The money to cover this program came from increased taxes on meat packers, millers, and other food processors. The program stabilized agricultural prices and increased American income from imports, but it came to an end when the Supreme Court declared it unconstitutional in 1936. A second AAA in 1938 served much the same purpose while avoiding those aspects that voided the first AAA.",
+   "source": "AP U.S. History · Practice Test 2, Q39",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The dismal plight of the “Dust Bowl” refugees was captured in",
+   "choices": [
+    "F. Scott Fitzgerald’s The Great Gatsby",
+    "John Steinbeck’s The Grapes of Wrath",
+    "Harriet Beecher Stowes’ Uncle Tom’s Cabin",
+    "Theodore Dreiser’s An American Tragedy"
+   ],
+   "answer": 1,
+   "explanation": "John Steinbeck’s 1939 best-selling novel, The Grapes of Wrath , depicts the lives of farmers forced to flee the drought-ridden Midwest during the Depression years. About 350,000 Oklahomans and Arkansans trekked to southern California in search of work.",
+   "source": "AP U.S. History · Practice Test 2, Q40",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "In response to several unfavorable Supreme Court rulings concerning New Deal programs, Franklin Roosevelt",
+   "choices": [
+    "proposed legislation that would allow him to appoint new federal and Supreme Court judges",
+    "submitted four separate Constitutional amendments broadening the powers of the presidency",
+    "urged the voting public to write letters of protest to Supreme Court justices",
+    "abandoned the New Deal and replaced it with a laissez-faire policy"
+   ],
+   "answer": 0,
+   "explanation": "The question refers to Roosevelt’s notorious “court packing” plan. Unhappy with the Supreme Court and the federal judiciary, whose conservatism frequently resulted in the nullification of New Deal programs, Roosevelt proposed that he be allowed to name a new federal judge for every sitting judge who had reached the age of 70 and not retired. The plan would have allowed Roosevelt to add six new Supreme Court justices and more than 40 other federal judges. The proposal was not at all popular and was roundly defeated in the Senate. It also helped fuel the arguments of those who contended that FDR had grown too powerful. Not long after the “court packing” incident, several conservative justices retired and FDR replaced them with liberals, so he achieved his goal despite the failure of his plan.",
+   "source": "AP U.S. History · Practice Test 2, Q41",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“We found that not only was it a civil war, an effort by a people who had for years been seeking their liberation from any colonial influence whatsoever, but also we found that the Vietnamese whom we had enthusiastically molded after our own image were hard put to take up the fight against the threat we were supposedly saving them from. “We found most people didn’t even know the difference between communism and democracy. They only wanted to work in rice paddies without helicopters strafing them and bombs with napalm burning their villages and tearing their country apart. They wanted everything to do with the war, particularly with this foreign presence of the United States of America, to leave them alone in peace, and they practiced the art of survival by siding with whichever military force was present at a particular time, be it Viet Cong, North Vietnamese or American.” John Kerry, 1971\n\nThe conflict described above is most likely a result of which of the following doctrines?",
+   "choices": [
+    "Containment",
+    "“Big-stick” diplomacy",
+    "Isolationism",
+    "Imperialism"
+   ],
+   "answer": 0,
+   "explanation": "The conflict in Vietnam was an attempt to contain the spread of Communism in Southeast Asia. It was not an attempt to control the Vietnamese government over the long-term, so rule out (A). Choice (C), “Big-stick” diplomacy, may involve the threat of force, but it does not necessarily lead to war. Choice (D), isolationism, would have prevented American involvement in Vietnam.",
+   "source": "AP U.S. History · Practice Test 2, Q42",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“We found that not only was it a civil war, an effort by a people who had for years been seeking their liberation from any colonial influence whatsoever, but also we found that the Vietnamese whom we had enthusiastically molded after our own image were hard put to take up the fight against the threat we were supposedly saving them from. “We found most people didn’t even know the difference between communism and democracy. They only wanted to work in rice paddies without helicopters strafing them and bombs with napalm burning their villages and tearing their country apart. They wanted everything to do with the war, particularly with this foreign presence of the United States of America, to leave them alone in peace, and they practiced the art of survival by siding with whichever military force was present at a particular time, be it Viet Cong, North Vietnamese or American.” John Kerry, 1971\n\nThe most important factor in the defeat of Democratic presidential candidates in the elections of 1952 and 1968 was",
+   "choices": [
+    "the Democratic Party platform pledge to increase taxes in order to pay off the national debt",
+    "the Democratic Party’s unequivocal support of the Equal Rights Amendment",
+    "the Democratic candidates’ controversial positions on civil rights legislation",
+    "the American public’s desire to avoid conflict and return to a more conservative political and social life"
+   ],
+   "answer": 3,
+   "explanation": "The election of Eisenhower in 1952 reflected the desire of many Americans to disentangle the country from the Korean War and to return to a more conservative economic policy, which they hoped would lead to an economic boom that could keep pace with the baby boom. The election of Nixon in 1968 also reflected a desire for a return to a more conservative social and political approach. George Wallace, running as a third-party candidate, received almost 10 million votes in this election by appealing to those who believed in segregation, states’ rights, and “law and order.” Democratic candidate Hubert Humphrey suffered from his close ties to President Lyndon Johnson, who had escalated the Vietnam War. It also didn’t help that the Democratic National Convention of 1968 was the scene of bitter riots and violence in the streets of Chicago, whereas the Republican convention that year ran without a hitch. In both the elections of 1952 and 1968, Americans were tired of conflict and wanted to return to good times. The more conservative Republican Party was the answer to their wishes.",
+   "source": "AP U.S. History · Practice Test 2, Q43",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“We found that not only was it a civil war, an effort by a people who had for years been seeking their liberation from any colonial influence whatsoever, but also we found that the Vietnamese whom we had enthusiastically molded after our own image were hard put to take up the fight against the threat we were supposedly saving them from. “We found most people didn’t even know the difference between communism and democracy. They only wanted to work in rice paddies without helicopters strafing them and bombs with napalm burning their villages and tearing their country apart. They wanted everything to do with the war, particularly with this foreign presence of the United States of America, to leave them alone in peace, and they practiced the art of survival by siding with whichever military force was present at a particular time, be it Viet Cong, North Vietnamese or American.” John Kerry, 1971\n\nThe two political issues that most concerned the counterculture movement of the 1960s were",
+   "choices": [
+    "the civil rights movement and censorship",
+    "censorship and the draft",
+    "U.S. involvement in Vietnam and the civil rights movement",
+    "U.S. involvement in Vietnam and flag burning"
+   ],
+   "answer": 2,
+   "explanation": "The two largest issues that concerned the counterculture movement were the civil rights of minorities and the war in Vietnam. The many demonstrations that took place during this period (such as the civil rights march on Washington in 1963 and the antiwar “moratoriums” in Washington during 1968 and 1969) had these two issues as their primary focus. Choice (A), flag-burning, was practiced, but was not a major political issue. Censorship, as mentioned in (B) and (D), was not a major issue either.",
+   "source": "AP U.S. History · Practice Test 2, Q44",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“We found that not only was it a civil war, an effort by a people who had for years been seeking their liberation from any colonial influence whatsoever, but also we found that the Vietnamese whom we had enthusiastically molded after our own image were hard put to take up the fight against the threat we were supposedly saving them from. “We found most people didn’t even know the difference between communism and democracy. They only wanted to work in rice paddies without helicopters strafing them and bombs with napalm burning their villages and tearing their country apart. They wanted everything to do with the war, particularly with this foreign presence of the United States of America, to leave them alone in peace, and they practiced the art of survival by siding with whichever military force was present at a particular time, be it Viet Cong, North Vietnamese or American.” John Kerry, 1971\n\nWhich of the following best characterizes the policy of détente ?",
+   "choices": [
+    "Direct confrontation",
+    "Decolonization",
+    "Mutual coexistence",
+    "Covert sabotage"
+   ],
+   "answer": 2,
+   "explanation": "President Nixon and Henry Kissinger formulated an approach called détente , which called for countries to respect each other’s differences and cooperate more closely. Détente ushered in a brief period of relaxed tensions between the two superpowers but ended when the Soviet Union invaded Afghanistan in 1979. The Nixon Doctrine announced that the United States would withdraw from many of its overseas troop commitments, relying instead on alliances with local governments to check the spread of communism.",
+   "source": "AP U.S. History · Practice Test 2, Q45",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“We found that not only was it a civil war, an effort by a people who had for years been seeking their liberation from any colonial influence whatsoever, but also we found that the Vietnamese whom we had enthusiastically molded after our own image were hard put to take up the fight against the threat we were supposedly saving them from. “We found most people didn’t even know the difference between communism and democracy. They only wanted to work in rice paddies without helicopters strafing them and bombs with napalm burning their villages and tearing their country apart. They wanted everything to do with the war, particularly with this foreign presence of the United States of America, to leave them alone in peace, and they practiced the art of survival by siding with whichever military force was present at a particular time, be it Viet Cong, North Vietnamese or American.” John Kerry, 1971\n\nFrom the quote above, it is reasonable to infer that",
+   "choices": [
+    "most Vietnamese were opposed to Communism",
+    "many Vietnamese viewed the United States as a colonial influence",
+    "some Viet Cong fought alongside American troops in opposition to North Vietnam",
+    "most Vietnamese favored Communism"
+   ],
+   "answer": 1,
+   "explanation": "In the excerpt, Kerry states that the Vietnamese were “a people who had for years been seeking their liberation from any colonial influence whatsoever ,” but they were also “hard put to take up the fight against the threat we were supposedly saving them from.” Thus, it is fair to infer that the Vietnamese did not welcome U.S. involvement in their affairs. Since “most people didn’t even know the difference between communism and democracy,” rule out (B) and (C). Choice (D) is false and unsupported by the excerpt.",
+   "source": "AP U.S. History · Practice Test 2, Q46",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“Yesterday, December 7, 1941—a date which will live in infamy —the United States of America was suddenly and deliberately attacked by naval and air forces of the Empire of Japan. The United States was at peace with that nation and, at the solicitation of Japan, was still in conversation with its Government and its Emperor looking toward the maintenance of peace in the Pacific. Indeed, one hour after Japanese air squadrons had commenced bombing…the Japanese Ambassador to the United States and his colleague delivered to the Secretary of State a formal reply to a recent American message. While this reply stated that it seemed useless to continue the existing diplomatic negotiations, it contained no threat or hint of war or armed attack….The attack yesterday… has caused severe damage to American naval and military forces. Very many American lives have been lost. In addition American ships have been reported torpedoed on the high seas….As Commander-in-Chief of the Army and Navy, I have directed that all measures be taken for our defense.” President Franklin D. Roosevelt, radio address, December 8, 1941\n\nWhich of the following best describes the relationship between the United States and the Empire of Japan in the years leading up to this speech?",
+   "choices": [
+    "The United States and Japan developed tensions over which country rightfully controlled Hawaii.",
+    "Japan and the United States maintained an alliance against Nazi Germany.",
+    "Japan resented the economic embargoes placed against it by the United States.",
+    "The United States depended on loans from Japan to stay afloat during the Great Depression."
+   ],
+   "answer": 2,
+   "explanation": "Japan’s invasion of China led the United States to place economic sanctions on Japan. Despite negotiations between the two countries to end the embargoes, no satisfactory progress was made and Japan decided to attack the naval base in Hawaii. Choice (D) is correct. Japan held an alliance with Germany, but neither held one with the United States. Eliminate (A). Hawaii was unquestionably United States territory, so (B) is incorrect. While the United States was in a deep recession during the years leading up to the attack on Pearl Harbor, it received no financial aid from Japan. Eliminate (C).",
+   "source": "AP U.S. History · Practice Test 2, Q47",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“Yesterday, December 7, 1941—a date which will live in infamy —the United States of America was suddenly and deliberately attacked by naval and air forces of the Empire of Japan. The United States was at peace with that nation and, at the solicitation of Japan, was still in conversation with its Government and its Emperor looking toward the maintenance of peace in the Pacific. Indeed, one hour after Japanese air squadrons had commenced bombing…the Japanese Ambassador to the United States and his colleague delivered to the Secretary of State a formal reply to a recent American message. While this reply stated that it seemed useless to continue the existing diplomatic negotiations, it contained no threat or hint of war or armed attack….The attack yesterday… has caused severe damage to American naval and military forces. Very many American lives have been lost. In addition American ships have been reported torpedoed on the high seas….As Commander-in-Chief of the Army and Navy, I have directed that all measures be taken for our defense.” President Franklin D. Roosevelt, radio address, December 8, 1941\n\nThe above statements were most likely made after which major event?",
+   "choices": [
+    "The Boxer Rebellion",
+    "The sinking of the U.S.S Maine",
+    "The bombing of Pearl Harbor",
+    "The bombing of the U.S.S. Liberty"
+   ],
+   "answer": 2,
+   "explanation": "The date, 1941, places this speech at the beginning of World War II, so only (A) is in the right era.",
+   "source": "AP U.S. History · Practice Test 2, Q48",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“Yesterday, December 7, 1941—a date which will live in infamy —the United States of America was suddenly and deliberately attacked by naval and air forces of the Empire of Japan. The United States was at peace with that nation and, at the solicitation of Japan, was still in conversation with its Government and its Emperor looking toward the maintenance of peace in the Pacific. Indeed, one hour after Japanese air squadrons had commenced bombing…the Japanese Ambassador to the United States and his colleague delivered to the Secretary of State a formal reply to a recent American message. While this reply stated that it seemed useless to continue the existing diplomatic negotiations, it contained no threat or hint of war or armed attack….The attack yesterday… has caused severe damage to American naval and military forces. Very many American lives have been lost. In addition American ships have been reported torpedoed on the high seas….As Commander-in-Chief of the Army and Navy, I have directed that all measures be taken for our defense.” President Franklin D. Roosevelt, radio address, December 8, 1941\n\nWhich of the following was the most immediate consequence of the events described in the excerpt above?",
+   "choices": [
+    "Trade embargoes with Japan extending up through the 1980s",
+    "The Battle of Normandy",
+    "The internment of Japanese-Americans",
+    "The bombing of Nagasaki"
+   ],
+   "answer": 2,
+   "explanation": "Normandy is irrelevant to Japan, so rule out (B). Choice (A) might sound tempting, but it is false; trade relationships with Japan were healthy after World War II. Choice (D) is likewise tempting, but it occurred at the end of World War II. President Truman dropped the bombs, not FDR.",
+   "source": "AP U.S. History · Practice Test 2, Q49",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“Yesterday, December 7, 1941—a date which will live in infamy —the United States of America was suddenly and deliberately attacked by naval and air forces of the Empire of Japan. The United States was at peace with that nation and, at the solicitation of Japan, was still in conversation with its Government and its Emperor looking toward the maintenance of peace in the Pacific. Indeed, one hour after Japanese air squadrons had commenced bombing…the Japanese Ambassador to the United States and his colleague delivered to the Secretary of State a formal reply to a recent American message. While this reply stated that it seemed useless to continue the existing diplomatic negotiations, it contained no threat or hint of war or armed attack….The attack yesterday… has caused severe damage to American naval and military forces. Very many American lives have been lost. In addition American ships have been reported torpedoed on the high seas….As Commander-in-Chief of the Army and Navy, I have directed that all measures be taken for our defense.” President Franklin D. Roosevelt, radio address, December 8, 1941\n\nWhich of the following statements best characterizes the economic consequences of the declaration of war described above?",
+   "choices": [
+    "Decreased trade with Asian nations precipitated economic recession in both the United States and Europe.",
+    "Cold War tensions isolated the economies of both the Soviet Union and the United States, leading to economic struggle for both nations.",
+    "The war-ravaged condition of Asia and Europe allowed the United States to emerge as one of the most prosperous nations on Earth.",
+    "Japan was subsequently required to pay reparations to the United States, forcing it into a prolonged depression."
+   ],
+   "answer": 2,
+   "explanation": "There are many red herrings here. You can rule out (A), (C), and (D) by simply remembering that the American economy was very strong after World War II and that Japan was not punished for its actions in the War. In fact, General Douglas MacArthur aided in the rebuilding of Japan, and Japan developed a very strong economy, particularly throughout the 1970s and 1980s.",
+   "source": "AP U.S. History · Practice Test 2, Q50",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“In the new Code of Laws which I suppose it will be necessary for you to make I desire you would Remember the Ladies, and be more generous and favorable to them than your ancestors. Do not put such unlimited power into the hands of the Husbands. Remember all Men would be tyrants if they could. If particular care and attention is not paid to the Ladies we are determined to foment a Rebellion, and will not hold ourselves bound by any Laws in which we have no voice, or Representation.” Abigail Adams, in a letter to John Adams, 1776 “Special legislation for woman has placed us in a most anomalous position. Women invested with the rights of citizens in one section—voters, jurors, office-holders—crossing an imaginary line, are subjects in the next. In some States, a married woman may hold property and transact business in her own name; in others, her earnings belong to her husband. In some States, a woman may testify against her husband, sue and be sued in the courts; in others, she has no redress in case of damage to person, property, or character. In case of divorce on account of adultery in the husband, the innocent wife is held to possess no right to children or property, unless by special decree of the court. But in no State of the Union has the wife the right to her own person, or to any part of the joint earnings of the co-partnership during the life of her husband. In some States women may enter the law schools and practice in the courts; in others they are forbidden. In some universities girls enjoy equal educational advantages with boys, while many of the proudest institutions in the land deny them admittance, though the sons of China, Japan and Africa are welcomed there. But the privileges already granted in the several States are by no means secure.” Susan B. Anthony, “Declaration of Rights for Women,” July 4, 1876\n\nThe sentiments expressed in the first excerpt by Abigail Adams best exemplify which of the following ideologies?",
+   "choices": [
+    "Republican motherhood",
+    "Libertarianism",
+    "Second-wave feminism",
+    "Jeffersonian democracy"
+   ],
+   "answer": 0,
+   "explanation": "Abigail Adams, the wife of John Adams, was not a feminist in the strictest sense, but the sentiments in this excerpt do embody the precepts of Republican Motherhood, which called on white women to maintain and teach republican values within the family and granted women a new importance in American political culture. The Adamses were not Jeffersonian Democrats or libertarians, in the modern sense, so rule out (B) and (D), respectively.",
+   "source": "AP U.S. History · Practice Test 2, Q51",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“In the new Code of Laws which I suppose it will be necessary for you to make I desire you would Remember the Ladies, and be more generous and favorable to them than your ancestors. Do not put such unlimited power into the hands of the Husbands. Remember all Men would be tyrants if they could. If particular care and attention is not paid to the Ladies we are determined to foment a Rebellion, and will not hold ourselves bound by any Laws in which we have no voice, or Representation.” Abigail Adams, in a letter to John Adams, 1776 “Special legislation for woman has placed us in a most anomalous position. Women invested with the rights of citizens in one section—voters, jurors, office-holders—crossing an imaginary line, are subjects in the next. In some States, a married woman may hold property and transact business in her own name; in others, her earnings belong to her husband. In some States, a woman may testify against her husband, sue and be sued in the courts; in others, she has no redress in case of damage to person, property, or character. In case of divorce on account of adultery in the husband, the innocent wife is held to possess no right to children or property, unless by special decree of the court. But in no State of the Union has the wife the right to her own person, or to any part of the joint earnings of the co-partnership during the life of her husband. In some States women may enter the law schools and practice in the courts; in others they are forbidden. In some universities girls enjoy equal educational advantages with boys, while many of the proudest institutions in the land deny them admittance, though the sons of China, Japan and Africa are welcomed there. But the privileges already granted in the several States are by no means secure.” Susan B. Anthony, “Declaration of Rights for Women,” July 4, 1876\n\nThe sentiments expressed in the second excerpt by Susan B. Anthony are most likely in support of",
+   "choices": [
+    "prohibition",
+    "the Equal Rights Amendment",
+    "universal suffrage",
+    "states’ rights"
+   ],
+   "answer": 2,
+   "explanation": "1876 puts this excerpt squarely in the realm of first-wave feminism, which largely campaigned for universal suffrage for all, including women. Choice (A), the Equal Rights Amendment, is a good trap answer, but it was not proposed (and it never passed!) until the 20th century.",
+   "source": "AP U.S. History · Practice Test 2, Q52",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“In the new Code of Laws which I suppose it will be necessary for you to make I desire you would Remember the Ladies, and be more generous and favorable to them than your ancestors. Do not put such unlimited power into the hands of the Husbands. Remember all Men would be tyrants if they could. If particular care and attention is not paid to the Ladies we are determined to foment a Rebellion, and will not hold ourselves bound by any Laws in which we have no voice, or Representation.” Abigail Adams, in a letter to John Adams, 1776 “Special legislation for woman has placed us in a most anomalous position. Women invested with the rights of citizens in one section—voters, jurors, office-holders—crossing an imaginary line, are subjects in the next. In some States, a married woman may hold property and transact business in her own name; in others, her earnings belong to her husband. In some States, a woman may testify against her husband, sue and be sued in the courts; in others, she has no redress in case of damage to person, property, or character. In case of divorce on account of adultery in the husband, the innocent wife is held to possess no right to children or property, unless by special decree of the court. But in no State of the Union has the wife the right to her own person, or to any part of the joint earnings of the co-partnership during the life of her husband. In some States women may enter the law schools and practice in the courts; in others they are forbidden. In some universities girls enjoy equal educational advantages with boys, while many of the proudest institutions in the land deny them admittance, though the sons of China, Japan and Africa are welcomed there. But the privileges already granted in the several States are by no means secure.” Susan B. Anthony, “Declaration of Rights for Women,” July 4, 1876\n\nThe excerpts above best support which of the following conclusions?",
+   "choices": [
+    "American feminists in the nineteenth century largely focused on suffrage, shunning other social issues such as abolition and prison reform.",
+    "Before 1876, American women had no right to own property or vote in national elections.",
+    "Women’s rights movements flourished in response to inconsistent legislation and unequal distributions of power throughout the nation.",
+    "The Second Great Awakening, along with various social reform movements, secured full rights for women by the turn of the nineteenth century."
+   ],
+   "answer": 2,
+   "explanation": "Susan B. Anthony’s quote clearly shows that women’s rights varied wildly by state of residence. Choice (B) is too extreme. Choice (A) is likewise too extreme because women did not have “full rights” until the 1970s. Choice (D) is untrue because many first-wave feminists did champion other causes, such as abolition and prohibition.",
+   "source": "AP U.S. History · Practice Test 2, Q53",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“The violent tendencies of dangerous cults can be classified into two general categories—defensive violence and offensive violence. Defensive violence is utilized by cults to defend a compound or enclave that was created specifically to eliminate most contact with the dominant culture. The 1993 clash in Waco, Texas at the Branch Davidian complex is an illustration of such defensive violence. History has shown that groups that seek to withdraw from the dominant culture seldom act on their beliefs that the endtime has come unless provoked.” “Project Megiddo,” U.S. Department of Justice (2000) “Madam Attorney General, I am extremely disappointed in the decisions that have been made out of the Department of Justice, the Federal Bureau of Investigation, and the Bureau of Alcohol, Tobacco and Firearms. In Philadelphia, we had a mayor that bombed people out of an eviction. In Jonestown, we lost the life of my colleague, Congressman Ryan,…because of a miscalculation about cult people. We had Patty Hearst and the Symbionese Liberation Army. We had Wounded Knee with the Indians. Now, when in God’s name is the law enforcement at the Federal level going to understand that these are very sensitive events that you cannot put barbed wire, guns, FBI, Secret Service around them, send in sound 24 hours a day and night and then wonder why they do something unstable? The root cause of this problem was that it was considered a military operation, and it wasn’t. This is a profound disgrace to law enforcement in the United States of America, and you did the right thing by offering to resign….” U.S. Representative John Conyers, Events Surrounding the Branch Davidian Cult Standoff in Waco, Texas: Hearing Before the Committee on the Judiciary, House of Representatives, 1993\n\nThe above excerpts most closely support which of the following inferences?",
+   "choices": [
+    "Fearing the offensive violence perpetrated by the Branch Davidian cult, Attorney General Janet Reno sent troops to quell the subsequent standoff and later faced congressional criticism.",
+    "Attorney General Janet Reno resigned from office in part due to Congressional pressure put on President Clinton by Representative John Conyers.",
+    "In 1993 Attorney General Janet Reno launched an offensive against the Branch Davidian cult, later drawing criticism from Congress for her heavy-handed approach.",
+    "In the 1990s, antigovernment sentiment, in response to excessive uses of federal power to resolve domestic conflicts, inspired dangerous cults such as the Branch Davidians."
+   ],
+   "answer": 2,
+   "explanation": "A careful reading of the excerpts can help you to use POE. We have no evidence that the Branch Davidians were “antigovernment,” (A). According to the first excerpt, they were employing “defensive” measures in response to perceived threats by the federal government, not “offensive” tactics. This likewise rules out (C). Choice (D) is tempting, but notice that Conyers says the Attorney General “offered” to resign. It does not say that she did. (In fact, she did not.)",
+   "source": "AP U.S. History · Practice Test 2, Q54",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  },
+  {
+   "question": "“The violent tendencies of dangerous cults can be classified into two general categories—defensive violence and offensive violence. Defensive violence is utilized by cults to defend a compound or enclave that was created specifically to eliminate most contact with the dominant culture. The 1993 clash in Waco, Texas at the Branch Davidian complex is an illustration of such defensive violence. History has shown that groups that seek to withdraw from the dominant culture seldom act on their beliefs that the endtime has come unless provoked.” “Project Megiddo,” U.S. Department of Justice (2000) “Madam Attorney General, I am extremely disappointed in the decisions that have been made out of the Department of Justice, the Federal Bureau of Investigation, and the Bureau of Alcohol, Tobacco and Firearms. In Philadelphia, we had a mayor that bombed people out of an eviction. In Jonestown, we lost the life of my colleague, Congressman Ryan,…because of a miscalculation about cult people. We had Patty Hearst and the Symbionese Liberation Army. We had Wounded Knee with the Indians. Now, when in God’s name is the law enforcement at the Federal level going to understand that these are very sensitive events that you cannot put barbed wire, guns, FBI, Secret Service around them, send in sound 24 hours a day and night and then wonder why they do something unstable? The root cause of this problem was that it was considered a military operation, and it wasn’t. This is a profound disgrace to law enforcement in the United States of America, and you did the right thing by offering to resign….” U.S. Representative John Conyers, Events Surrounding the Branch Davidian Cult Standoff in Waco, Texas: Hearing Before the Committee on the Judiciary, House of Representatives, 1993\n\nIn the second excerpt, Representative Conyers refers to “Wounded Knee” as an example of",
+   "choices": [
+    "a violent cult",
+    "a federal misuse of power",
+    "the site of a bombing",
+    "a recent conflict between federal agents and Lakota Indians"
+   ],
+   "answer": 1,
+   "explanation": "It helps if you remember that the Wounded Knee incident occurred in 1890, a heavy-handed assault by the U.S. Army against the Lakota Indians. Choice (A) is a good trap, but an Indian tribe is not a cult. There was no bombing, so rule out (C), and Wounded Knee was not a recent conflict, so rule out (D).",
+   "source": "AP U.S. History · Practice Test 2, Q55",
+   "topic": "Practice Test 2",
+   "topic_n": 1
+  }
+ ]
+}

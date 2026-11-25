@@ -1,0 +1,95 @@
+{
+ "exams": [
+  {
+   "file": "apush-test-1.json",
+   "title": "AP U.S. History — Practice Test 1",
+   "note": "53 questions",
+   "category": "AP U.S. History",
+   "chapter": "Practice Tests"
+  },
+  {
+   "file": "apush-test-2.json",
+   "title": "AP U.S. History — Practice Test 2",
+   "note": "50 questions",
+   "category": "AP U.S. History",
+   "chapter": "Practice Tests"
+  },
+  {
+   "file": "apush-test-3.json",
+   "title": "AP U.S. History — Practice Test 3",
+   "note": "49 questions",
+   "category": "AP U.S. History",
+   "chapter": "Practice Tests"
+  },
+  {
+   "file": "apush-test-4.json",
+   "title": "AP U.S. History — Practice Test 4",
+   "note": "45 questions",
+   "category": "AP U.S. History",
+   "chapter": "Practice Tests"
+  },
+  {
+   "file": "apush-ch06.json",
+   "title": "AP U.S. History — Chapter 6 Review: Early Contact with the New World (1491–1607) / Colonization of North America (1607–1754)",
+   "note": "9 questions",
+   "category": "AP U.S. History",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apush-ch07.json",
+   "title": "AP U.S. History — Chapter 7 Review: Conflict and American Independence (1754–1800)",
+   "note": "11 questions",
+   "category": "AP U.S. History",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apush-ch08.json",
+   "title": "AP U.S. History — Chapter 8 Review: Beginnings of Modern American Democracy (1800–1848)",
+   "note": "8 questions",
+   "category": "AP U.S. History",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apush-ch09.json",
+   "title": "AP U.S. History — Chapter 9 Review: Toward the Civil War and Reconstruction (1844–1877)",
+   "note": "10 questions",
+   "category": "AP U.S. History",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apush-ch10.json",
+   "title": "AP U.S. History — Chapter 10 Review: The Industrial Revolution (1865–1898)",
+   "note": "10 questions",
+   "category": "AP U.S. History",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apush-ch11.json",
+   "title": "AP U.S. History — Chapter 11 Review: The Early 20th Century (1890–1945)",
+   "note": "10 questions",
+   "category": "AP U.S. History",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apush-ch12.json",
+   "title": "AP U.S. History — Chapter 12 Review: The Postwar Period and Cold War (1945–1980)",
+   "note": "8 questions",
+   "category": "AP U.S. History",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apush-ch13.json",
+   "title": "AP U.S. History — Chapter 13 Review: Entering into the 21st Century (1980–Present)",
+   "note": "8 questions",
+   "category": "AP U.S. History",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apush-pacing-drill.json",
+   "title": "AP U.S. History — Pacing Drill",
+   "note": "9 questions",
+   "category": "AP U.S. History",
+   "chapter": "Drills"
+  }
+ ]
+}
